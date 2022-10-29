@@ -14,9 +14,7 @@
     "react-dom": "^18.2.0"
   },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": "please-use-yarn",
-    "yarn": ">=1.20.0"
+    "node": ">=16.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.22",
